@@ -67,16 +67,17 @@ cv2.destroyAllWindows()
 ```
 
 ## Output:
+### ORIGINAL
+![Blue Moon](https://github.com/Darkwebnew/EDGE-DETECTION/assets/143114486/cd89118b-95d6-49b0-aa80-e01b6bd1e1f4)
+
 ### SOBEL EDGE DETECTOR
 
-![output](./sobel.png)
 
 ### LAPLACIAN EDGE DETECTOR
-![output](./laplacian.png)
 
 
 ### CANNY EDGE DETECTOR
-![output](./canny.png)
+
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
