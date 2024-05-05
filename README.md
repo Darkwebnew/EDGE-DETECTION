@@ -1,5 +1,5 @@
 # EX-06 EDGE-DETECTION
-## Daate: 05-04-2024
+## Date: 05-04-2024
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
